@@ -12,7 +12,7 @@ export default function App() {
         React exercise coded by caro and
         <a
           className="gitHubLink"
-          href=""
+          href="https://github.com/OlgaMilemis/react-exercise"
           target="_blank"
           rel="noopener noreferrer"
         >
