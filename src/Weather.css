@@ -1,0 +1,38 @@
+.Weather {
+  font-family: "Inconsolata", monospace;
+  border: 2px solid orange;
+  border-radius: 6px;
+  padding: 20px;
+}
+.Weather form {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.Weather li {
+  font-size: 15px;
+  line-height: 25px;
+  list-style: none;
+}
+.Weather img {
+  margin-right: 20px;
+  position: relative;
+  height: 64px;
+  width: 64px;
+  top: -20px;
+}
+.Weather .temperature {
+  padding-left: 10px;
+  font-size: 50px;
+  line-height: 1;
+}
+.Weather .units {
+  position: relative;
+  font-size: 20px;
+  top: -18px;
+}
