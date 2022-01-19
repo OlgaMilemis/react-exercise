@@ -27,6 +27,7 @@ export default function Weather() {
           <img
             className="icon"
             src="https://www.accuweather.com/images/weathericons/07.svg"
+            alt=""
           />
           <span className="temperature">2</span>
           <span className="units">°C</span>
