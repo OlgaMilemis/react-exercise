@@ -19,8 +19,8 @@ export default function Weather() {
       </form>
       <h1 className="mt-5">Berlin</h1>
       <ul>
-        <li>Wednesday 18:02</li>
-        <li>Mostly cloudy</li>
+        <li>Wednesday 18:05</li>
+        <li>Rainy</li>
       </ul>
       <div className="row mt-5">
         <div className="col-6">
